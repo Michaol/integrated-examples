@@ -76,7 +76,7 @@
         "proxy": "no_proxy"
       },
       "upstream": {
-        "upstream": "memory"
+        "upstream": "caddy"
       },
       "users": ["diy6443"] //修改为自己的密码。密码可多组，用逗号隔开。
     },
